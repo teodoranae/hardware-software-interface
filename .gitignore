@@ -57,3 +57,6 @@ _site/
 
 # Builder output folder
 /.output/
+
+.view/
+buildx-linux-amd64

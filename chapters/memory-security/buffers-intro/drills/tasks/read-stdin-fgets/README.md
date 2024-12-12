@@ -41,4 +41,4 @@ The result should be the same like in the *read_stdin_gets* task.
 What happens if you push *buffer_length - 1*, instead of *buffer_length*.
 Why *var is 0x004F4C46* now?
 
-If you're having difficulties solving this exercise, go through [this](../../../reading/README.md#How-to-make-a-Buffer-Overflow?) reading material.
+If you're having difficulties solving this exercise, go through [this](../../../reading/buffers-intro.md#How-to-make-a-Buffer-Overflow?) reading material.
